@@ -1,6 +1,6 @@
 # 📊 Correlation Analysis and Visualization
 
-<p align="center">
+<p align="center">hi
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Correlation+Analysis+%26+Visualization;California+Housing+Dataset;Python+%7C+Machine+Learning+%7C+Data+Analysis" alt="Typing SVG" />
 </p>
 
