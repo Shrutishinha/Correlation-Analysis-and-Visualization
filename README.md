@@ -1,4 +1,45 @@
 # 📊 Correlation Analysis & Visualization 
+```markdown
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C9A7,50:00B4DB,100:0083B0&text=Correlation%20Analysis%20%26%20Visualization&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=900&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=📊+Exploratory+Data+Analysis+(EDA);📈+Correlation+Matrix+%26+Heatmaps;🐍+Python+%7C+Machine+Learning+%7C+Data+Science"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Data%20Science-Expert-00C9A7?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Ready-orange?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge&logo=github"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=1&column=6"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+
+---
+
+### 🚀 Discover Hidden Patterns in Data
+
+#### 🔍 Pearson Correlation • 📈 Heatmaps • 📊 Scatter Plots • 🤖 Feature Engineering
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,jupyter,vscode,git,github"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9A7,100:0083B0"/>
+
+</div>
+```
 
 <div align="center">
 
