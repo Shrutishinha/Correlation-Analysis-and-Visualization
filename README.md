@@ -1,5 +1,5 @@
 <div align="center">
-hihi
+
 # 📊 Correlation Analysis & Visualization
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=00C9A7&center=true&vCenter=true&repeat=true&width=700&lines=Exploratory+Data+Analysis+(EDA);Correlation+Matrix+%26+Heatmaps;Python+%7C+Machine+Learning+%7C+Data+Science" />
