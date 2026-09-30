@@ -1,4 +1,55 @@
-<div align="center">i
+<div align="center"><div align="center">
+
+# 📊 Correlation Analysis & Visualization
+
+### 🔎 Exploring Relationships • 📈 Discovering Patterns • 🧠 Extracting Insights
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pearson-Correlation-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Visualization-F59E0B?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=800&color=00C9A7&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Exploratory+Data+Analysis;Pearson+Correlation+Analysis;Correlation+Matrix+%26+Heatmaps;Feature+Relationships+%26+Data+Insights" alt="Animated Project Highlights"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">🔎<br><b>Explore</b></td>
+<td>→</td>
+<td align="center">📊<br><b>Analyze</b></td>
+<td>→</td>
+<td align="center">🔥<br><b>Visualize</b></td>
+<td>→</td>
+<td align="center">🧠<br><b>Interpret</b></td>
+<td>→</td>
+<td align="center">💡<br><b>Discover</b></td>
+</tr>
+</table>
+
+<br>
+
+> **Turning numerical relationships into meaningful, data-driven insights.**
+
+<br>
+
+<img src="https://img.shields.io/badge/🏠_California_Housing-Dataset-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/📊_Correlation_Matrix-Analysis-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔥_Heatmaps-Visualization-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/📈_Scatter_Plots-Insights-0D1117?style=flat-square"/>
+
+<br><br>
+
+**Python** • **Pandas** • **NumPy** • **Matplotlib** • **Seaborn** • **Scikit-Learn** • **Jupyter**
+
+</div>
+
+---
+
 
 # 📊 Correlation Analysis & Visualization
 
